@@ -1,0 +1,3 @@
+﻿  dpd_bokeh_lib.cpp
+  test_bokeh.cpp
+LINK : fatal error LNK1561: entry point must be defined
